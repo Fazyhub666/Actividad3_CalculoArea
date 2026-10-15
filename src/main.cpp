@@ -24,12 +24,9 @@ double calcularAreaCirculo(double radio);
 int main() {
     double radioEstudiante; // Variable para guardar el radio ingresado por teclado
 
-    // ====================================================================
-    // REGLA OBLIGATORIA (EVITA EL PLAGIO):
-    // Modifiquen la salida de pantalla agregando su Nombre y Apellido reales.
-    // ====================================================================
+
     cout << "=====================================================" << endl;
-    cout << " CALCULADORA DE AREA MODULAR - ESTUDIANTE: [Nombre y Apellido] " << endl;
+    cout << " CALCULADORA DE AREA MODULAR - ESTUDIANTE: [Benjamin Hlynczuk] " << endl;
     cout << "=====================================================" << endl;
     cout << "=> Ingrese el radio del circulo/diana (en cm): ";
     cin >> radioEstudiante; // Lee el radio ingresado por el usuario
