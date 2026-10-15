@@ -23,7 +23,8 @@ calculoarea/
 ├── docs/
 │   └── InformeProyectoCALCULOAREA.pdf
 ├── src/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── area.exe
 └── capturas/
     ├── compilacion_area.png
     └── diagrama_flujo.png
@@ -54,6 +55,6 @@ Si se ingresa un radio menor o igual a 0, el programa muestra un mensaje de erro
 
 ## Autor
 
-[Nombre y Apellido]
+Benjamin Hlynczuk
 E.E.S.T. N.º 1 "Eduardo Ader", Vicente López
 Laboratorio de Programación (LPR), 5.º año, 2026
